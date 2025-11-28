@@ -1,0 +1,13 @@
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/bin/Debug/net9.0/DBConnector.deps.json
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/bin/Debug/net9.0/DBConnector.dll
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/bin/Debug/net9.0/DBConnector.pdb
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.csproj.AssemblyReference.cache
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.AssemblyInfoInputs.cache
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.AssemblyInfo.cs
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.csproj.CoreCompileInputs.cache
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.sourcelink.json
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.dll
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/refint/DBConnector.dll
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/DBConnector.pdb
+/Users/chernojalloh/Documents/Software Design/Intergrating-Docker-/assignment5solution-master/DBConnector/obj/Debug/net9.0/ref/DBConnector.dll
